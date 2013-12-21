@@ -1,0 +1,17 @@
+# FishPlayer
+
+A media player for KDE.
+
+Authors
+=======
+
+* Shang Yuanchun
+
+Requirements:
+============
+
+* kdelibs 4.x
+* Phonon
+* any Phonon backend
+* CMake
+
