@@ -19,15 +19,7 @@
  *  Boston, MA  02110-1301, USA.
  */
 
-#include <KCmdLineArgs>
+#include <KAboutData>
 
-#include "config.h"
-#include "about.h"
+extern KAboutData fishplayerAbout;
 
-int main(int argc, char *argv[])
-{
-    Q_UNUSED(argc);
-    Q_UNUSED(argv);
-
-    return 0;
-}
